@@ -26,6 +26,8 @@ include ('includes/navigation.php');
         $event_date= $row['event_date'];
         $member_id= $row['member_id'];
         $time_recorded = $row['time_recorded'];
+        
+        
 
 
         echo "<tr>" ;
